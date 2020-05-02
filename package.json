@@ -1,6 +1,6 @@
 {
   "name": "concurrently-cd",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Concurrently, but also cd into directories",
   "repository": "github:patarapolw/concurrently-cd",
   "main": "cli.js",
@@ -36,6 +36,6 @@
     "typescript": "^3.8.3"
   },
   "peerDependencies": {
-    "concurrently": "^5.2.0"
+    "concurrently": "5.x"
   }
 }

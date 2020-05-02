@@ -1,6 +1,6 @@
 # concurrently-cd
 
-Concurrently, but also cd into directories.
+[concurrently](https://www.npmjs.com/package/concurrently), but also cd into directories.
 
 ## Usage
 
