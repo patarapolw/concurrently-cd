@@ -1,7 +1,7 @@
 {
   "name": "concurrently-cd",
   "version": "1.0.0",
-  "description": "Concurrently, but also cd into directories.",
+  "description": "Concurrently, but also cd into directories",
   "repository": "github:patarapolw/concurrently-cd",
   "main": "cli.js",
   "bin": {
